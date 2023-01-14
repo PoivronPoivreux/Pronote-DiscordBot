@@ -41,10 +41,11 @@ Si vous rencontrez une difficulté lors de la connexion à l'ENT il faut appuyer
 </p>
 </details>
 
-<details><summary>Crédis</summary>
+<details><summary>Crédits</summary>
 <p>
 PoivronPoivreux<br>
-[Comment Coder](https://www.youtube.com/@commentcoder)
+
+Comment Coder (https://www.youtube.com/@commentcoder)
 
 </p>
 </details>
