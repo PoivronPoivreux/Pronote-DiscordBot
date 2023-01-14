@@ -7,11 +7,12 @@ Un bot discord qui en une seule commande récupère ton emploi du temps de ton i
 
 Avant toute chose il faudra installer ``Python`` sur le site de Python : https://www.python.org/downloads/.
 
-Après il faudra installer ``Pillow`` et ``dicord.py`` :
+Après il faudra installer ``Pillow``, ``dicord.py`` et ``Selenium``:
 
 ```ruby
 pip install Pillow
 pip install discord.py
+pip install selenium
 ```
 Puis, une fois installé il faudra télécharger la dernière version de ``Pronote-DiscordBot`` [ici](https://github.com/PoivronPoivreux/Pronote-DiscordBot/releases/tag/Pronote-DicordBot) !
   
