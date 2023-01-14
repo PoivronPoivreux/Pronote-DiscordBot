@@ -29,14 +29,14 @@ Il faut modifier le fichier comme marqué il faut donc modifier le token du bot 
   
 ``options.py :``<br>
 <br>
-Il faut modifier le lien vers ton ENT, ton nom d'utilisateur et ton mot de passe (lors de la connextion à l'ENT il se peux qu'il y ait une erreure. En cas d'erreure il faut aller dans la section ``Aide``).
+Il faut modifier le lien vers ton ENT, ton nom d'utilisateur et ton mot de passe (lors de la connextion à l'ENT il se peut qu'il y ait une erreur. En cas d'erreur il faut aller dans la section ``Aide``).
 
 </p>
 </details>
 <details><summary>Aide</summary>
 <p>
 
-Il se peut qu'il y ait une erreure lors de la connexion à l'ENT car l'ID des champs de saisie. Si vous rencontrez une difficultée lors de la connexion à l'ENT il faut appuyer sur la touche ``F12`` depuis votre google et non celui de ``Selenium`` puis appuyer sur les touches ``CTRL + Shift + C`` et pointer les deux champs de saisie l'un après l'autre pour récupérer l'ID de chacun dans la partie sur la droite de votre écran puis les mettres à la place de ``email`` et ``password`` dans le fichier ``options.py``.
+Si vous rencontrez une difficulté lors de la connexion à l'ENT il faut appuyer sur la touche ``F12`` depuis votre google et non celui de ``Selenium`` puis appuyer sur les touches ``CTRL + Shift + C`` et pointer les deux champs de saisie l'un après l'autre pour récupérer l'ID de chacun dans la partie sur la droite de votre écran puis les mettre à la place de ``email`` et ``password`` dans le fichier ``options.py``.
 
 </p>
 </details>
