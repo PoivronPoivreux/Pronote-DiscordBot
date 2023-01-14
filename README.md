@@ -18,3 +18,12 @@ Puis, une fois installé il faudra télécharger la dernière version de ``Prono
 Et il faudra modifier le fichier ``bot.py`` et ``options.py``.
 </p>
 </details>
+
+<details><summary>Modifications</summary>
+<p>
+
+``bot.py :``
+<img src="" />
+
+</p>
+</details>
