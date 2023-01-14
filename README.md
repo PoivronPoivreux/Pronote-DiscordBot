@@ -2,14 +2,10 @@
 Un bot discord qui en une seule commande récupère ton emploi du temps de ton interface pronote.
 
 
-```ruby
-pip install Pillow
-```
-
-<details><summary>CLICK ME</summary>
+<details><summary>Installation</summary>
 <p>
 
-#### We can hide anything, even code!
+Avant toute chose il faudra installer ``Python`` sur le site de Python : ```ruby https://www.python.org/downloads/ ```
 
 ```ruby
    puts "Hello World"
