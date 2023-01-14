@@ -13,7 +13,7 @@ Après il faudra installer ``Pillow`` et ``dicord.py`` :
 pip install Pillow
 pip install discord.py
 ```
-Puis, une fois installé il faudra télécharger la dernière version de ``Pronote-DiscordBot`` ici :
+Puis, une fois installé il faudra télécharger la dernière version de ``Pronote-DiscordBot`` ici !
   
 Et il faudra modifier le fichier ``bot.py`` et ``options.py``.
 </p>
