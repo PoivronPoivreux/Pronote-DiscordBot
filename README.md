@@ -28,7 +28,7 @@ Il faut modifier le fichier comme marqué il faut donc modifier le token du bot 
   
 ``options.py :``<br>
 <br>
-Il faut modifier le lien vers ton ENT, ton nom d'utilisateur et ton mot de passe (lors de la connextion à l'ENT il se peux qu'il y ait une erreure. En cas d'erreure il faut aller [ici]().).
+Il faut modifier le lien vers ton ENT, ton nom d'utilisateur et ton mot de passe (lors de la connextion à l'ENT il se peux qu'il y ait une erreure. En cas d'erreure il faut aller [ici]()).
 
 </p>
 </details>
