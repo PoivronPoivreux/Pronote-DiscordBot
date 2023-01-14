@@ -7,7 +7,7 @@ Un bot discord qui en une seule commande récupère ton emploi du temps de ton i
 
 Avant toute chose il faudra installer ``Python`` sur le site de Python : https://www.python.org/downloads/.
 
-Après il faudra installer ``Pillow``, ``dicord.py`` et ``Selenium``:
+Après il faudra installer ``Pillow``, ``dicord.py`` et ``Selenium`` :
 
 ```ruby
 pip install Pillow
