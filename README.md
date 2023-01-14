@@ -25,7 +25,7 @@ Et il faudra modifier le fichier ``bot.py`` et ``options.py``.
 
 ``bot.py :``<br>
 <br>
-Il faut modifier le fichier comme marqué il faut donc modifier le token du bot (trouvable sur le [Portail des développeurs de Discord](https://discord.com/developers/applications) un tuto juste [là]()) ainsi que l'ID du salon de ton serveur discord (trouvable en activant le mode développeur de discord dans tes paramètres et en faisant un clic droit sur le salon).
+Il faut modifier le fichier comme marqué il faut donc modifier le token du bot (trouvable sur le [Portail des développeurs de Discord](https://discord.com/developers/applications) un tuto juste [là](https://www.youtube.com/watch?v=Y8RcqgmYVU8)) ainsi que l'ID du salon de ton serveur discord (trouvable en activant le mode développeur de discord dans tes paramètres et en faisant un clic droit sur le salon).
   
 ``options.py :``<br>
 <br>
