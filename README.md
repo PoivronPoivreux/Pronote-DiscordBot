@@ -23,7 +23,8 @@ Et il faudra modifier le fichier ``bot.py`` et ``options.py``.
 <p>
 
 ``bot.py :``<br>
-<img src="https://raw.githubusercontent.com/PoivronPoivreux/Pronote-DiscordBot/main/img/bot.py.png?token=GHSAT0AAAAAAB5PNPUHGPFOQJCCO4HG7H4GY6C6YRQ" />
+<img src="https://raw.githubusercontent.com/PoivronPoivreux/Pronote-DiscordBot/main/img/bot.py.png?token=GHSAT0AAAAAAB5PNPUHGPFOQJCCO4HG7H4GY6C6YRQ" /><br>
+Il faut modifier le fichier comme marqué il faut donc modifier le token du bot (trouvable sur le [Poratail des développeurs de Discord](https://discord.com/developers/applications)
 
 </p>
 </details>
