@@ -42,7 +42,7 @@ Si vous rencontrez une difficulté lors de la connexion à l'ENT il faut appuyer
 </details>
 
 <details><summary>Crédits</summary>
-<p>
+<p><br>
 PoivronPoivreux<br>
 
 Comment Coder (https://www.youtube.com/@commentcoder)
